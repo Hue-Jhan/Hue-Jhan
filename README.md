@@ -2,6 +2,12 @@
 
 **`Cybersecurity`** **`Robotics`** **`Programming`**
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20hate%20Python%20and%20Java&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
  <p align="left">
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8WxmuLXxBXXgc9BnEVT3vg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
