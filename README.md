@@ -1,6 +1,6 @@
 ### 😎 Hue-Jhan
 
-**`Cybersecurity`** **`Robotics`** **`Programming`**
+**`Cybersecurity`** **`Robotics`** **`Programming`** **`Mobile Dev`** **`Editing`**
 
 <p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
