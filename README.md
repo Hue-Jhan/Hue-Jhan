@@ -12,7 +12,7 @@
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8WxmuLXxBXXgc9BnEVT3vg?color=%23E05D54&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8WxmuLXxBXXgc9BnEVT3vg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1155ba"/></a> 
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8WxmuLXxBXXgc9BnEVT3vg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1156ba"/></a> 
       <a href="https://github.com/Hue-Jhan?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hue-Jhan?color=%23E2AD2E&style=for-the-badge&labelColor=C79606&logo=star"/></a>
    </p>
