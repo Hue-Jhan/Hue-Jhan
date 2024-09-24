@@ -3,9 +3,8 @@
 **`Cybersecurity`** **`Robotics`** **`Programming`** **`Mobile Dev`** **`Editing`**
 
 <p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue" width="400" />
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20hate%20Javaaaaaaa%F0%9F%92%A5%F0%9F%92%A5%F0%9F%92%A5&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&vCenter=true&pause=1000&size=22" /></a>
+    <img align="left" src="https://readme-typing-svg.demolab.com/?lines=I%20hate%20Javaaaaaaa%F0%9F%92%A5%F0%9F%92%A5%F0%9F%92%A5&font=Fira%20Code&center=true&width=450&height=45&color=00FF00&vCenter=true&pause=1000&size=22" /></a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue" width="400" />
 </p>
 
  <p align="left">
