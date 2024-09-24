@@ -1,9 +1,8 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue" width="400" />
-
 ### 😎 Hue-Jhan
 
 **`Cybersecurity`** **`Robotics`** **`Programming`** **`Mobile Dev`** **`Editing`**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue" width="400" />
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
