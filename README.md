@@ -37,26 +37,42 @@
     <img align="right" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://simpleicons.org/icons/aliexpress.svg" />
 </div>
 
+---
 
+<details style="margin-bottom: 1px;" > 
+  <summary><h2> 🌐 Cybersecurity Projects </h2></summary>
+  <p align="left">
+    <a href="https://github.com/Hue/Ip-info-Multitool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ip-info-multitool&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Encrypted-Trojan-Undetected"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Encrypted-Trojan-Undetected&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Self-Injection-Reverse-Shell-Undetected"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Self-Injection-Reverse-Shell-Undetected&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/IP-logger-and-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=IP-logger-and-tracker&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Winrar-Password-Cracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Winrar-Password-Cracker&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+  </p>
+</details>
 
+<details style="margin-top: 1px;"> 
+  <summary><h2> 🕹 Games & Fun </h2></summary>
+  <p align="left">
+    <a href="https://github.com/Hue/Discord-League-Ban-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Discord-League-Ban-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Gameboy-in-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Gameboy-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Mastermind-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Mastermind-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Discord-Free-API-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Discord-Free-API-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Connect-4-in-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Connect-4-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Tic-Tac-Toe-C"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Tic-Tac-Toe-C&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+  </p>
+</details>
 
+<details> 
+  <summary><h2> 🤖 Robotics </h2></summary>
+  <p align="left">
+    <a href="https://github.com/Hue/Arduino-Spider-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Spider-Bot&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue/Arduino-Taser-Timer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Taser-Timer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+  </p>
+</details>
 
-<!-- 
-
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="right" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://simpleicons.org/icons/aliexpress.svg" />
-
-idk why this config is buggy since 11/09/2024 so i changed it into a css style with display flex
-
--->
+<details> 
+  <summary><h2> 💻 Software & Mobile </h2></summary>
+  <p align="left">
+    <a href="https://github.com/Hue/Rubrica-Telefonica-Completa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Rubrica-Telefonica-Completa&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+  </p>
+</details>
