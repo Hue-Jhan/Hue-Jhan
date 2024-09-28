@@ -12,7 +12,7 @@
 
  <p align="left">
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8WxmuLXxBXXgc9BnEVT3vg?color=%23E05D54&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8WxmuLXxBXXgc9BnEVT3vg?color=%23E05D54&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4631"/></a> 
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8WxmuLXxBXXgc9BnEVT3vg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1156ba"/></a> 
       <a href="https://github.com/Hue-Jhan?tab=repositories&sort=stargazers">
