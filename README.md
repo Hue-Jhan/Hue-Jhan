@@ -56,7 +56,6 @@
   <p align="left">
     <a href="https://github.com/Hue-Jhan/Discord-League-Ban-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Discord-League-Ban-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Gameboy-in-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Gameboy-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Mastermind-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Mastermind-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Discord-Free-API-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Discord-Free-API-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Connect-4-in-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Connect-4-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Tic-Tac-Toe-C"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Tic-Tac-Toe-C&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
@@ -75,5 +74,7 @@
   <summary><h2> 💻 Software & Mobile </h2></summary>
   <p align="left">
     <a href="https://github.com/Hue-Jhan/Rubrica-Telefonica-Completa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Rubrica-Telefonica-Completa&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Mastermind-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Mastermind-c&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+
   </p>
 </details>
