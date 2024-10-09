@@ -16,7 +16,7 @@
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8WxmuLXxBXXgc9BnEVT3vg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1156ba"/></a> 
       <a href="https://github.com/Hue-Jhan?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hue-Jhan?color=%23E2AD2E&style=for-the-badge&labelColor=C79604&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hue-Jhan?color=%23E2AD2E&style=for-the-badge&labelColor=C79606&logo=star"/></a>
    </p>
    
 ---
