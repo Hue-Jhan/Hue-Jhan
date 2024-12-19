@@ -53,7 +53,7 @@
 </details>
 
 <details style="margin-top: 1px;"> 
-  <summary><h2> (+1) 🕹 Games & Fun </h2></summary>
+  <summary><h2> 🕹 Games & Fun </h2></summary>
   <p align="left">
     <a href="https://github.com/Hue-Jhan/Snake-in-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Snake-in-python&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Discord-League-Ban-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Discord-League-Ban-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
