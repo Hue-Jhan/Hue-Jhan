@@ -77,7 +77,8 @@
 <details> 
   <summary><h2> (+1) 💻 Software & Mobile </h2></summary>
   <p align="left">
-     <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/AI-Face-Recognition-n-Tracking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Face-Recognition-n-Tracking&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Rubrica-Telefonica-Completa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Rubrica-Telefonica-Completa&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Mastermind-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Mastermind-c&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
 
