@@ -1,6 +1,6 @@
 ### 😎 Hue-Jhan
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue&hde=[issues" width="375" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue" width="375" />
 
 **`Cybersecurity`** **`Robotics`** **`Programming`** **`Mobile Dev`** **`Editing`**
 
@@ -43,7 +43,7 @@
 <details style="margin-bottom: 1px;" > 
   <summary><h2> (+2) 🌐 Cybersecurity Projects </h2></summary>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/Remote-Dll-injector-Trojan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Remote-Dll-injector-Trojan&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Remote-Dll-injector-Trojan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Remote-Dll-injector-Trojan&theme=vue&title_color=11e208&icon_color=F8D867&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Simple-shellcode-crypter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Simple-shellcode-crypter&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Trojan-through-Process-Hollowing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Trojan-through-Process-Hollowing&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Shodan-dork-scanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Shodan-dork-scanner&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
@@ -70,7 +70,7 @@
 <details> 
   <summary><h2> (+1) 🤖 Robotics </h2></summary>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/AI-Defence-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Defence-system&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/AI-Defence-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Defence-system&theme=vue&title_color=069df9&icon_color=F8D856&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Arduino-Spider-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Spider-Bot&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Arduino-Taser-Timer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Taser-Timer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
