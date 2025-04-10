@@ -43,6 +43,8 @@
 <details style="margin-bottom: 1px;" > 
   <summary><h2> 🌐 Cybersecurity Projects </h2></summary>
   <p align="left">
+    <a href="https://github.com/Hue-Jhan/Remote-Dll-injector-Trojan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Remote-Dll-injector-Trojan&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Simple-shellcode-crypter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Simple-shellcode-crypter&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Trojan-through-Process-Hollowing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Trojan-through-Process-Hollowing&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Shodan-dork-scanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Shodan-dork-scanner&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Ip-info-Multitool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ip-info-multitool&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
