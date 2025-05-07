@@ -16,7 +16,7 @@
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8WxmuLXxBXXgc9BnEVT3vg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1156ba"/></a> 
       <a href="https://github.com/Hue-Jhan?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hue-Jhan?color=%23E2AD2E&style=for-the-badge&labelColor=C79608&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hue-Jhan?color=%23E2AD2E&style=for-the-badge&labelColor=C79618&logo=star"/></a>
    </p>
    
 ---
@@ -82,7 +82,7 @@
 <details> 
   <summary><h2> 🛰 Satellites & Signals </h2></summary>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-ino-multitool"></a>
     <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
   </p>
 </details>
