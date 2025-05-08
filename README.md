@@ -82,8 +82,9 @@
 <details> 
   <summary><h2> 🛰 Satellites & Signals </h2></summary>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-ino-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Satellite-Predictor-n-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Satellite-Predictor-n-Tracker&theme=vue&title_color=BF40BF&icon_color=F8D876&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-ino-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
   </p>
 </details>
 
