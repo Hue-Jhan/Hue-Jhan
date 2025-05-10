@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue" width="375" />
 
-**`Cybersecurity`** **`Robotics`** **`Programming`** **`Sigint`** **`Malware dev`** **`Mobile Dev`** **`Editing`**
+**`Cybersecurity`** **`Robotics`** **`Sigint`** **`Malware dev`** **`Mobile Dev`** **`Editing`**
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
