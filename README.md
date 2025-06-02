@@ -46,6 +46,7 @@
    <summary><h2> 🌐 Cybersecurity </h2></summary>  
    <p align="left">
    <h4> 👾 Malware Dev </h4>
+    <a href="https://github.com/Hue-Jhan/Ntdll-Dll-Injection-Trojan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ntdll-Dll-Injection-Trojan&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Ntdll-Process-inj-Trojan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ntdll-Process-inj-Trojan&theme=vue&title_color=11e208&icon_color=F8D867&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Custom-Reverse-Shell-cpp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Custom-Reverse-Shell-cpp&theme=vue&title_color=11e208&icon_color=F8D867&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Remote-Dll-injector-Trojan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Remote-Dll-injector-Trojan&theme=vue&title_color=11e208&icon_color=F8D867&show_icons=false" alt="Ip-info-multitool"></a>
