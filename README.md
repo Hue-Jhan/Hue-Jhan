@@ -83,6 +83,9 @@
     <a href="https://github.com/Hue-Jhan/Connect-4-in-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Connect-4-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Tic-Tac-Toe-C"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Tic-Tac-Toe-C&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
   </p>
+
+---
+  
 </details>
 
 <details> 
@@ -92,6 +95,9 @@
     <a href="https://github.com/Hue-Jhan/Arduino-Spider-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Spider-Bot&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Arduino-Taser-Timer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Taser-Timer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
   </p>
+
+---
+  
 </details>
 
 <details> 
@@ -101,6 +107,9 @@
     <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-ino-multitool"></a>
     <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
   </p>
+
+---
+  
 </details>
 
 
@@ -123,6 +132,11 @@
   <h4> 📱 - Mobile </h4>
   <p align="left">
     <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/AI-Image-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+   
     
   </p>
+
+---
+  
 </details>
