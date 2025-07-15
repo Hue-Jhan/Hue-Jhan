@@ -42,6 +42,8 @@
 
 ---
 
+######  ⬇  clicca il titolo per visualizzare la sezione / ⬇ click each section to view its content
+
 <details style="margin-bottom: 1px;" > 
    <summary><h2> 🌐 Cybersecurity </h2></summary>  
    <p align="left">
