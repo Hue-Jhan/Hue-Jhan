@@ -113,10 +113,6 @@
 
 <details> 
   <summary><h2> 💻 Software & Mobile </h2></summary>
-  <h4> 🖥 - Web </h4>
-  <p align="left">
-    
-  </p>
 
   <h4> 💿 - Software </h4>
   <p align="left">
