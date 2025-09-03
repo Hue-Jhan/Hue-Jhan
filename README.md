@@ -103,9 +103,10 @@
 <details> 
   <summary><h2> 🛰 Satellites & Signals </h2></summary>
   <p align="left">
+    <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Satellite-Predictor-n-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Satellite-Predictor-n-Tracker&theme=vue&title_color=BF40BF&icon_color=F8D876&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-ino-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+  
   </p>
   
 </details>
@@ -113,6 +114,15 @@
 
 <details> 
   <summary><h2> 💻 Software & Mobile </h2></summary>
+
+<h4> 📱 - Mobile </h4>
+  <p align="left">
+    <a href="https://github.com/Hue-Jhan/Multi-Weather-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Weather-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/AI-Image-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+   
+  </p>
+
 
   <h4> 💿 - Software </h4>
   <p align="left">
@@ -122,14 +132,5 @@
     <a href="https://github.com/Hue-Jhan/Chess-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Chess-python&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
 
   </p>
-  
-  <h4> 📱 - Mobile </h4>
-  <p align="left">
-    <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/AI-Image-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Multi-Weather-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Weather-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    
-  </p>
-
   
 </details>
