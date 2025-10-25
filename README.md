@@ -77,6 +77,7 @@
 <details style="margin-top: 1px;"> 
   <summary><h2> 🕹 Games & Fun </h2></summary>
   <p align="left">
+    <a href="https://github.com/Hue-Jhan/Battle-Ship-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Battle-Ship-game&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/TicTacToe-Assembly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=TicTacToe-Assembly&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Minecraft-Meme-Virus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Minecraft-Meme-Virus&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Stargazers-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Stargazers-tracker&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
