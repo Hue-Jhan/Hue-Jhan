@@ -65,6 +65,7 @@
 
   <h4> ⛏ Tools </h4>
   <p align="left">
+    <a href="https://github.com/Hue-Jhan/Multi-Api-Hook-Dll"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Api-Hook-Dll&theme=vue&title_color=11e208&icon_color=F8D867&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Simple-shellcode-crypter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Simple-shellcode-crypter&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Shodan-dork-scanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Shodan-dork-scanner&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Ip-info-Multitool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ip-info-multitool&theme=vue&title_color=11e208&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
@@ -120,17 +121,7 @@
 <details> 
   <summary><h2> 💻 Software & Mobile </h2></summary>
 
-<h4> 📱 - Mobile </h4>
-  <p align="left">
-    <a href="https://github.com/Hue-Jhan/Android-QT-Client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-QT-Client&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Multi-Weather-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Weather-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/AI-Image-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-   
-  </p>
-
-
-  <h4> 💿 - Software </h4>
+<h4> 💿 - Software </h4>
   <p align="left">
     <a href="https://github.com/Hue-Jhan/Multi-Weather-Api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Weather-Api&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Quality-Treshold-clustering"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Quality-Treshold-clustering&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
@@ -140,5 +131,15 @@
     <a href="https://github.com/Hue-Jhan/Chess-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Chess-python&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
 
   </p>
+
+<h4> 📱 - Mobile </h4>
+  <p align="left">
+    <a href="https://github.com/Hue-Jhan/Android-QT-Client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-QT-Client&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Multi-Weather-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Weather-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/AI-Image-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+   
+  </p>
+
   
 </details>
