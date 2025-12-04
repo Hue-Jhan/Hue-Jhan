@@ -1,6 +1,9 @@
 ### 😎 Hue-Jhan
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue&bg_color=DEG" width="375" />
+<!-- img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue&bg_color=DEG" width="375" -->
+
+<img align="right" src="https://psy-gh-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue&bg_color=DEG" width="375">
+
 
 **`Cybersecurity`** **`Robotics`** **`Sigint`** **`Malware dev`** **`Mobile Dev`** **`Editing`**
 
