@@ -48,6 +48,7 @@
    <summary><h2> 🌐 Cybersecurity </h2></summary>  
    <p align="left">
    <h4> 👾 Malware Dev </h4>
+    <a href="https://github.com/Hue-Jhan/Syscalls-Thread-Hijacking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Syscalls-Thread-Hijacking&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Ntdll-Thread-Hijacking-trojan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ntdll-Thread-Hijacking-trojan&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Thread-Hijacking-Collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Thread-Hijacking-Collection&theme=vue&title_color=11e278&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Direct-Syscall-Dll-Injection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Direct-Syscall-Dll-Injection&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
