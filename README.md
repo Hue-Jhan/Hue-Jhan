@@ -149,3 +149,32 @@
 
   
 </details>
+
+<details style="margin-top: 0px;"> 
+    <summary><h5> Crypto </h5></summary>
+<h5> I'm broke pls donate </h5>
+
+
+<img align="left" alt="Bitcoin" width="50px" src="https://www.readmecodegen.com/api/social-icon?name=bitcoin&size=306&animation=rainbow&animationDuration=4.5" />
+
+  ```
+  bc1qdf06nx2mlpkxkmjj8vn29mwp88etgvzr9wh975
+  ```
+
+<img align="left" alt="Ethereum" width="50px" src="https://www.readmecodegen.com/api/social-icon?name=ethereum&size=30&animation=spin&animationDuration=4.5&color=%233b82f6" />
+    
+  ```
+  0xFBc5aDF16f1459f2D61ab87f26431A6b377Dba8C
+  ```
+
+<img align="left" alt="Ethereum" width="50px" src="https://www.readmecodegen.com/api/social-icon?name=monero&size=30&animation=fade&animationDuration=3.2" />
+
+  ```
+  882ViUtGxERFvajFFiR698B2DKcpKDDCgFfpb4DzJDHKevB2cgq9gYjVudj9d8Us5ahxPMVtz4sxXgpwjcSCVu8pLcrbBC5
+  ```
+  
+
+---
+  
+</details>
+
