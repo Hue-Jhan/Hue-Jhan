@@ -123,7 +123,7 @@
 
 
 <details> 
-  <summary><h2> 💻 Software & Mobile </h2></summary>
+  <summary><h2> 💻 Software, Mobile & Web </h2></summary>
 
 <h4> 💿 - Software </h4>
   <p align="left">
@@ -145,6 +145,11 @@
     <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/AI-Image-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
    
+  </p>
+
+<h4> 🖥️ - Web </h4>
+  <p align="left">
+    <a href="https://github.com/Hue-Jhan/OSINT-War-Room"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=OSINT-War-Room&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
   </p>
 
   
