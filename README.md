@@ -48,7 +48,9 @@
 ######  ⬇  clicca il titolo per visualizzare la sezione / ⬇ click each section to view its content
 
 <details style="margin-bottom: 1px;" > 
-   <summary><h2> 🌐 Cybersecurity </h2></summary>  
+   <summary><h2> 🌐 Cybersecurity  </h2>
+   <h5>  (click here) </h5>
+   </summary>  
    <p align="left">
    <h4> 👾 Malware Dev </h4>
     <a href="https://github.com/Hue-Jhan/My-Entire-Malware-Collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=My-Entire-Malware-Collection&theme=vue&title_color=11e298&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
