@@ -19,7 +19,7 @@
       <a href="https://www.youtube.com/channel/UC8WxmuLXxBXXgc9BnEVT3vg">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8WxmuLXxBXXgc9BnEVT3vg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1156ba"/></a> 
       <a href="https://github.com/Hue-Jhan?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hue-Jhan?color=%23E2AD2E&style=for-the-badge&labelColor=C78726&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hue-Jhan?color=%23E2AD2E&style=for-the-badge&labelColor=C78725&logo=star"/></a>
    </p>
    
 ---
@@ -54,6 +54,7 @@
    <p align="left">
    <h4> 👾 Malware Dev </h4>
     <a href="https://github.com/Hue-Jhan/My-Entire-Malware-Collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=My-Entire-Malware-Collection&theme=vue&title_color=11e298&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Ntdll-Early-Bird-Injection-Trojans"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ntdll-Early-Bird-Injection-Trojans&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Ntdll-Apc-Injection-Trojans"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ntdll-Apc-Injection-Trojans&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Early-Bird-Process-and-Dll-injection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Early-Bird-Process-and-Dll-injection&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Apc-Process-Injection-and-DLL-injection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Apc-Process-Injection-and-DLL-injection&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
