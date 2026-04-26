@@ -54,6 +54,7 @@
    <p align="left">
    <h4> 👾 Malware Dev </h4>
     <a href="https://github.com/Hue-Jhan/My-Entire-Malware-Collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=My-Entire-Malware-Collection&theme=vue&title_color=11e298&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
+    <a href="https://github.com/Hue-Jhan/Linux-Process-Hijacking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Linux-Process-Hijacking&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Ntdll-Early-Bird-Injection-Trojans"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ntdll-Early-Bird-Injection-Trojans&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Ntdll-Apc-Injection-Trojans"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Ntdll-Apc-Injection-Trojans&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Early-Bird-Process-and-Dll-injection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Early-Bird-Process-and-Dll-injection&theme=vue&title_color=11e208&icon_color=F8D877&show_icons=false" alt="info-multitool"></a>
