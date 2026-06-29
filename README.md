@@ -111,6 +111,7 @@
 <details> 
   <summary><h2> 🤖 Robotics </h2> <h5>  (click here) </h5> </summary>
   <p align="left">
+    <a href="https://github.com/Siumsag/Sysag-AI-Siumbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Siumsag&repo=Sysag-AI-Siumbot&theme=vue&title_color=069df9&icon_color=F8D856&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/AI-Defence-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Defence-system&theme=vue&title_color=069df9&icon_color=F8D856&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Arduino-Spider-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Spider-Bot&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
     <a href="https://github.com/Hue-Jhan/Arduino-Taser-Timer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Taser-Timer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
