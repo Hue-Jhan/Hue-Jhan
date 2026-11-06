@@ -1,9 +1,10 @@
 ### 😎 Hue-Jhan
 
-<!-- img align="right" src="https://github-readme-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue&bg_color=DEG" width="375" -->
+<!-- img align="right" src="https://github-readme-stats.shion.dev/api?username=Hue-Jhan&show_icons=true&theme=vue&bg_color=DEG" width="375" -->
 
-<img align="right" src="https://psy-gh-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue&bg_color=DG" width="375">
+<!-- img align="right" src="https://psy-gh-stats.vercel.app/api?username=Hue-Jhan&show_icons=true&theme=vue&bg_color=DG" width="375"> -->
 
+<img align="right" width="375" src="https://github-readme-stats.shion.dev/api?username=Hue-Jhan&show_icons=true&theme=vue" alt="Hue-Jhan's GitHub Stats">
 
 **`Cybersecurity`** **`Robotics`** **`Sigint`** **`Malware dev`** **`Mobile Dev`** **`Editing`**
 
@@ -115,21 +116,19 @@
 <details> 
   <summary><h2> 🤖 Robotics </h2> <h5>  (click here) </h5> </summary>
   <p align="left">
-    <a href="https://github.com/Siumsag/Sysag-AI-Siumbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Siumsag&repo=Sysag-AI-Siumbot&theme=vue&title_color=069df9&icon_color=F8D856&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/AI-Defence-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Defence-system&theme=vue&title_color=069df9&icon_color=F8D856&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Arduino-Spider-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Spider-Bot&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Arduino-Taser-Timer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Arduino-Taser-Timer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-  </p>
+  <a href="https://github.com/Siumsag/Sysag-AI-Siumbot">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Siumsag&repo=Sysag-AI-Siumbot&theme=vue&title_color=069df9&icon_color=F8D856&show_icons=false" alt="Sysag-AI-Siumbot"></a>
+<a href="https://github.com/Hue-Jhan/AI-Defence-system">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=AI-Defence-system&theme=vue&title_color=069df9&icon_color=F8D856&show_icons=false" alt="AI-Defence-system"></a>
+<a href="https://github.com/Hue-Jhan/Arduino-Spider-Bot">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Arduino-Spider-Bot&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Arduino-Spider-Bot"></a>
+<a href="https://github.com/Hue-Jhan/Arduino-Taser-Timer">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Arduino-Taser-Timer&theme=vue&title_color=069df9&icon_color=F8D866&show_icons=false" alt="Arduino-Taser-Timer"></a>  </p>
   
 </details>
 
 <details> 
   <summary><h2> 🛰 Satellites & Signals </h2> <h5>  (click here) </h5> </summary>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/433mhz-Jammer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Satellite-Predictor-n-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Satellite-Predictor-n-Tracker&theme=vue&title_color=BF40BF&icon_color=F8D876&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Ip-ino-multitool"></a>
-  
+   <a href="https://github.com/Hue-Jhan/433mhz-Jammer">			<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=433mhz-Jammer&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="433mhz-Jammer"></a>
+   <a href="https://github.com/Hue-Jhan/Satellite-Predictor-n-Tracker">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Satellite-Predictor-n-Tracker&theme=vue&title_color=BF40BF&icon_color=F8D876&show_icons=false" alt="Satellite-Predictor-n-Tracker"></a>
+   <a href="https://github.com/Hue-Jhan/Noaa-Satellite-Decoder">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Noaa-Satellite-Decoder&theme=vue&title_color=BF40BF&icon_color=F8D866&show_icons=false" alt="Noaa-Satellite-Decoder"></a>
   </p>
   
 </details>
@@ -140,30 +139,28 @@
 
 <h4> 🖥️ - Web </h4>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/OSINT-War-Room"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=OSINT-War-Room&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
+   <a href="https://github.com/Hue-Jhan/OSINT-War-Room">			<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=OSINT-War-Room&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="OSINT-War-Room"></a>
   </p>
 
 <h4> 💿 - Software </h4>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/Local-Langchain-Voice-Assistant"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Local-Langchain-Voice-Assistant&theme=vue&title_color=f59701&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Encrypted-Chat-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Encrypted-Chat-System&theme=vue&title_color=f59701&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Multi-Weather-Api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Weather-Api&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Quality-Treshold-clustering"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Quality-Treshold-clustering&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/AI-Face-Recognition-n-Tracking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Face-Recognition-n-Tracking&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Rubrica-Telefonica-Completa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Rubrica-Telefonica-Completa&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Mastermind-c"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Mastermind-c&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Chess-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Chess-python&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Icon-2526-diamonds"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Icon-2526-diamonds&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-
+   <a href="https://github.com/Hue-Jhan/Local-Langchain-Voice-Assistant">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Local-Langchain-Voice-Assistant&theme=vue&title_color=f59701&icon_color=F8D866&show_icons=false" alt="Local-Langchain-Voice-Assistant"></a>
+<a href="https://github.com/Hue-Jhan/Encrypted-Chat-System">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Encrypted-Chat-System&theme=vue&title_color=f59701&icon_color=F8D866&show_icons=false" alt="Encrypted-Chat-System"></a>
+<a href="https://github.com/Hue-Jhan/Multi-Weather-Api">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Multi-Weather-Api&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Multi-Weather-Api"></a>
+<a href="https://github.com/Hue-Jhan/Quality-Treshold-clustering">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Quality-Treshold-clustering&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Quality-Treshold-clustering"></a>
+<a href="https://github.com/Hue-Jhan/AI-Face-Recognition-n-Tracking">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=AI-Face-Recognition-n-Tracking&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="AI-Face-Recognition-n-Tracking"></a>
+<a href="https://github.com/Hue-Jhan/Rubrica-Telefonica-Completa">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Rubrica-Telefonica-Completa&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Rubrica-Telefonica-Completa"></a>
+<a href="https://github.com/Hue-Jhan/Mastermind-c">			<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Mastermind-c&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Mastermind-c"></a>
+<a href="https://github.com/Hue-Jhan/Chess-python">			<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Chess-python&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Chess-python"></a>
+<a href="https://github.com/Hue-Jhan/Icon-2526-diamonds">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Icon-2526-diamonds&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Icon-2526-diamonds"></a>
   </p>
 
 <h4> 📱 - Mobile </h4>
   <p align="left">
-    <a href="https://github.com/Hue-Jhan/Android-QT-Client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-QT-Client&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Multi-Weather-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Multi-Weather-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/Android-Api-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-    <a href="https://github.com/Hue-Jhan/AI-Image-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Ip-info-multitool"></a>
-   
+   <a href="https://github.com/Hue-Jhan/Android-QT-Client">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Android-QT-Client&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Android-QT-Client"></a>
+<a href="https://github.com/Hue-Jhan/Multi-Weather-App">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Multi-Weather-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Multi-Weather-App"></a>
+<a href="https://github.com/Hue-Jhan/Android-Api-App">			<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Android-Api-App&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="Android-Api-App"></a>
+<a href="https://github.com/Hue-Jhan/AI-Image-app">			<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=AI-Image-app&theme=vue&title_color=f59700&icon_color=F8D866&show_icons=false" alt="AI-Image-app"></a> 
   </p>
 
   
