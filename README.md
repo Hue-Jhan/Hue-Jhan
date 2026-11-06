@@ -95,19 +95,21 @@
 <details style="margin-top: 1px;"> 
   <summary><h2> 🕹 Games & Fun </h2>  <h5>  (click here) </h5> </summary>
   <p align="left">
-  <a href="https://github.com/Hue-Jhan/Goliath-Explorer-game">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Goliath-Explorer-game&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Goliath-Explorer-game"></a>
-<a href="https://github.com/Hue-Jhan/Black-Hole-Simulator">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Black-Hole-Simulator&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Black-Hole-Simulator"></a>
-<a href="https://github.com/Hue-Jhan/Battle-Ship-game">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Battle-Ship-game&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Battle-Ship-game"></a>
-<a href="https://github.com/Hue-Jhan/TicTacToe-Assembly">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=TicTacToe-Assembly&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="TicTacToe-Assembly"></a>
-<a href="https://github.com/Hue-Jhan/Minecraft-Meme-Virus">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Minecraft-Meme-Virus&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Minecraft-Meme-Virus"></a>
-<a href="https://github.com/Hue-Jhan/Stargazers-tracker">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Stargazers-tracker&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Stargazers-tracker"></a>
-<a href="https://github.com/Hue-Jhan/Snake-in-python">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Snake-in-python&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Snake-in-python"></a>
-<a href="https://github.com/Hue-Jhan/Discord-League-Ban-Bot">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Discord-League-Ban-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Discord-League-Ban-Bot"></a>
-<a href="https://github.com/Hue-Jhan/Gameboy-in-c">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Gameboy-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Gameboy-in-c"></a>
-<a href="https://github.com/Hue-Jhan/Discord-Free-API-Bot">	<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Discord-Free-API-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Discord-Free-API-Bot"></a>
-<a href="https://github.com/Hue-Jhan/Connect-4-in-c">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Connect-4-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Connect-4-in-c"></a>
-<a href="https://github.com/Hue-Jhan/Tic-Tac-Toe-C">		<img width="333" height="125" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Tic-Tac-Toe-C&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Tic-Tac-Toe-C"></a> 
-  </p>
+
+<a href="https://github.com/Hue-Jhan/Goliath-Explorer-game">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Goliath-Explorer-game&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Goliath-Explorer-game"></a>
+<a href="https://github.com/Hue-Jhan/Black-Hole-Simulator">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Black-Hole-Simulator&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Black-Hole-Simulator"></a>
+<a href="https://github.com/Hue-Jhan/Battle-Ship-game">		<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Battle-Ship-game&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Battle-Ship-game"></a>
+<a href="https://github.com/Hue-Jhan/TicTacToe-Assembly">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=TicTacToe-Assembly&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="TicTacToe-Assembly"></a>
+<a href="https://github.com/Hue-Jhan/Minecraft-Meme-Virus">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Minecraft-Meme-Virus&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Minecraft-Meme-Virus"></a>
+<a href="https://github.com/Hue-Jhan/Stargazers-tracker">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Stargazers-tracker&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="Stargazers-tracker"></a>
+<a href="https://github.com/Hue-Jhan/Snake-in-python">		<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Snake-in-python&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Snake-in-python"></a>
+<a href="https://github.com/Hue-Jhan/Discord-League-Ban-Bot">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Discord-League-Ban-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Discord-League-Ban-Bot"></a>
+<a href="https://github.com/Hue-Jhan/Gameboy-in-c">		<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Gameboy-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Gameboy-in-c"></a>
+<a href="https://github.com/Hue-Jhan/Discord-Free-API-Bot">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Discord-Free-API-Bot&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Discord-Free-API-Bot"></a>
+<a href="https://github.com/Hue-Jhan/Connect-4-in-c">		<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Connect-4-in-c&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Connect-4-in-c"></a>
+<a href="https://github.com/Hue-Jhan/Tic-Tac-Toe-C">		<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Tic-Tac-Toe-C&theme=vue&title_color=ea0b1f&icon_color=F8D866&show_icons=false" alt="Tic-Tac-Toe-C"></a>
+
+</p>
 
 ---
   
