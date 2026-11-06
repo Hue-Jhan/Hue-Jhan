@@ -96,7 +96,7 @@
   <summary><h2> 🕹 Games & Fun </h2>  <h5>  (click here) </h5> </summary>
   <p align="left">
 
-<a href="https://github.com/Hue-Jhan/Goliath-Explorer-game">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Goliath-Explorer-game&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Goliath-Explorer-game"></a>
+<a href="https://github.com/Hue-Jhan/Goliath-Explorer-game">	<img width="285" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Goliath-Explorer-game&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Goliath-Explorer-game"></a>
 <a href="https://github.com/Hue-Jhan/Black-Hole-Simulator">	<img width="285" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Black-Hole-Simulator&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Black-Hole-Simulator"></a>
 <a href="https://github.com/Hue-Jhan/Battle-Ship-game">		<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=Battle-Ship-game&theme=vue&title_color=ea0b3f&icon_color=F8D866&show_icons=false" alt="Battle-Ship-game"></a>
 <a href="https://github.com/Hue-Jhan/TicTacToe-Assembly">	<img width="275" height="105" src="https://github-readme-stats.shion.dev/api/pin/?username=Hue-Jhan&repo=TicTacToe-Assembly&theme=vue&title_color=ea0b2f&icon_color=F8D866&show_icons=false" alt="TicTacToe-Assembly"></a>
